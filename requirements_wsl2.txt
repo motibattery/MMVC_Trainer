@@ -1,12 +1,12 @@
 Cython
-librosa
+librosa==0.9.2
 matplotlib
 phonemizer
 scipy
 tensorboard
--f https://download.pytorch.org/whl/cu117/torch_stable.html
-torch==1.13.1+cu117
-torchaudio==0.13.1+cu117
+-f https://download.pytorch.org/whl/cu118/torch_stable.html
+torch==2.1.0+cu118
+torchaudio==2.1.0+cu118
 Unidecode
 retry
 tqdm
